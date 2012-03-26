@@ -13,7 +13,7 @@
     
     <div id="dTitle">
     <asp:Panel runat="server" HorizontalAlign="Center">
-        <asp:Image ID="imgLogo" runat="server" ImageUrl="~//Images/Logo.png" /> <!-- LOADS OUR IMAGE FOR SHADY PINES -->
+        <asp:Image ID="imgLogo" runat="server" ImageUrl="~//Images/Logo.png" /> <!-- LOADS OUR IMAGE FOR SHADY PINES! -->
     </asp:Panel>
     </div>
 
