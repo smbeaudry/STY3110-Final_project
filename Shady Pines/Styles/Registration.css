@@ -1,0 +1,231 @@
+﻿body 
+{
+}
+
+/* Label Id's that require formatting*/
+/* place LABEL ID's below*/
+
+#lblNewMember
+{
+    position:absolute;
+    top:220px;
+    left:400px;
+    font-size:xx-large;
+    font-weight:bolder;
+}
+
+#lblMemberID
+{
+    position:absolute;
+    top:300px;
+    left:400px;
+    font-size:large;
+    font-weight:bolder;
+}
+
+#lblMemberFName
+{
+    position:absolute;
+    top:330px;
+    left:400px;
+    font-size:large;
+    font-weight:bolder;
+}
+
+#lblMemberLName
+{
+    position:absolute;
+    top:360px;
+    left:400px;
+    font-size:large;
+    font-weight:bolder;
+}
+
+#lblMemberCity
+{
+    position:absolute;
+    top:390px;
+    left:400px;
+    font-size:large;
+    font-weight:bolder;
+}
+
+#lblMemberCountry
+{
+    position:absolute;
+    top:420px;
+    left:400px;
+    font-size:large;
+    font-weight:bolder;
+}
+
+#lblMemberState
+{
+    position:absolute;
+    top:450px;
+    left:400px;
+    font-size:large;
+    font-weight:bolder;
+}
+
+#lblMemberAddress
+{
+    position:absolute;
+    top:480px;
+    left:400px;
+    font-size:large;
+    font-weight:bolder;
+}
+
+#lblMemberZip
+{
+    position:absolute;
+    top:510px;
+    left:400px;
+    font-size:large;
+    font-weight:bolder;
+}
+
+#lblMemberPhone
+{
+    position:absolute;
+    top:540px;
+    left:400px;
+    font-size:large;
+    font-weight:bolder;
+}
+
+#lblError
+{
+    position:absolute;
+    top:640px;
+    left:400px;
+    font-size:large;
+    color:Red;
+    font-weight:bolder;
+}
+
+#lblMemberType
+{
+    position:absolute;
+    top:320px;
+    left:720px;
+    font-size:large;
+    font-weight:bolder;
+}
+
+#lblMemberPackage
+{
+    position:absolute;
+    top:370px;
+    left:750px;
+    font-size:large;
+    font-weight:bolder;
+}
+
+#lblMemberPayment
+{
+    position:absolute;
+    top:420px;
+    left:730px;
+    font-size:large;
+    font-weight:bolder;
+}
+
+/* Textbox Id's that require formatting*/
+
+#txtMemberID
+{
+    position:absolute;
+    top:300px;
+    left:530px;
+    width:60px;
+}
+
+#txtMemberFName
+{
+    position:absolute;
+    top:330px;
+    left:530px;
+}
+
+#txtMemberLName
+{
+    position:absolute;
+    top:360px;
+    left:530px;
+}
+
+#txtMemberCity
+{
+    position:absolute;
+    top:390px;
+    left:530px;
+}
+
+#txtMemberCountry
+{
+    position:absolute;
+    top:420px;
+    left:530px;
+}
+
+#txtMemberState
+{
+    position:absolute;
+    top:450px;
+    left:530px;
+}
+
+#txtMemberAddress
+{
+    position:absolute;
+    top:480px;
+    left:530px;
+}
+
+#txtMemberZip
+{
+    position:absolute;
+    top:510px;
+    left:530px;
+}
+
+#txtMemberPhone
+{
+    position:absolute;
+    top:540px;
+    left:530px;
+}
+
+/* Drop Down Lists */
+
+#ddlMemberType
+{
+    position:absolute;
+    top:340px;
+    left:750px;
+}
+
+#ddlMemberPackage
+{
+    position:absolute;
+    top:390px;
+    left:750px;
+}
+
+#ddlMemberPayment
+{
+    position:absolute;
+    top:440px;
+    left:750px;
+}
+
+/* Buttons */
+
+#btnRegister
+{
+    position:absolute;
+    top:600px;
+    left:600px;
+}

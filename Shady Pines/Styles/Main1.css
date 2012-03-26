@@ -1,0 +1,52 @@
+﻿/* General page layout. background image, navigation, calendar */
+
+body 
+{
+    font-family:Times New Roman,Arial;
+}
+
+#imgLogo
+{
+     height:150px;
+}
+
+#dLinks
+{
+   position:absolute;
+   top:250px;
+   background-color:Black;
+   width:20%;
+   height:250px;
+}
+
+#Payments
+{
+	position:absolute;
+	top:250px;
+	left:350px	
+}
+
+.Links
+{
+  position:absolute;
+  color:White;
+}
+
+Link1
+{
+  position:absolute;
+  color:White; 
+}
+
+#dCal
+{
+   position:absolute;
+   top:250px;
+   left:80%;
+}
+
+#dTitle
+{
+    
+}
+
